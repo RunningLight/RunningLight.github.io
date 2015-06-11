@@ -1,9 +1,13 @@
 ---
 layout: docs
 title: Building From Source
-next_section: contributing
+next_section: using-images
+prev_section: packages-debian
 permalink: /docs/building-from-source/
 ---
+
+
+> THIS PAGE IS UNDERGOING REVISION
 
 ## Prologue
 

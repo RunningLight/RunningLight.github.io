@@ -1,12 +1,14 @@
-- title: Getting Started
+- title: User Corner
   docs:
-    - home
+    - installation-overview
+    - realtime-kernels
     - packages-debian
+    - building-from-source
+    - using-images
     - community
 
-- title: Development
+- title: Developer Corner
   docs:
-    - building-from-source
     - contributing
     - maintainers
     - buildbot

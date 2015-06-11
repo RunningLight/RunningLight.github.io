@@ -55,7 +55,7 @@ make sure to configure git with your real name or a well-known alias:
     $ git config --global user.email your.name@example.com
 
 Create a [Github account][3], and [create a personal fork][4] of the
-[Machinekit repository][5].
+[Machinekit repository][5]. To compile this source, see [Building from Source][10].
 
 ## Development process
 
@@ -92,3 +92,4 @@ constructively (see [C4][1]).
 [7]: https://github.com/machinekit/machinekit/issues
 [8]: https://help.github.com/articles/creating-a-pull-request
 [9]: /docs/maintainers/
+[10]:/docs/building-from-source

@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Community
-prev_section: packages-debian
+prev_section: using-images
 permalink: /docs/community/
 ---
 

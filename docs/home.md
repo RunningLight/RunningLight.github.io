@@ -1,16 +1,13 @@
 ---
 layout: docs
 title: Welcome
-next_section: packages-debian
+next_section: installation-overview
 permalink: /docs/home/
 ---
 
-This documentation is to help users and developers get started.  It
-will cover topics such as installing packages, setting up a
-development environment, and community participation.
+This documentation is intended to help users and developers get started.  It covers topics such as installing packages, setting up a development environment, and community participation. Advanced topics such as building a custom realtime kernel are not covered.
 
-Please browse the topics in the navigation bar on the right.  Quick
-links are provided for convenience below.
+Feel free to browse the topics in the navigation bar on the right, but it is recommended to read through them sequentially at least once.  Quick links to other useeful sources of information are provided for convenience below.
 
 
 ## Community links

@@ -4,3 +4,4 @@ relative_permalinks: false
 permalink: /blog/:year/:month/:day/:title/
 markdown: kramdown
 repository: https://github.com/machinekit/machinekit
+baseurl: /machinekit.github.io
